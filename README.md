@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Vansh Choudhary</h1>
+<!-- Web Dev Banner -->
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+
+
+<h1 align="center">💫 Hi 👋, I'm Vansh Choudhary</h1>
 <h3 align="center">🚀 Engineering scalable backend systems & AI-driven web applications</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vansh-choudhary-447958377/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vansh-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:vanshchaudhary1023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:vanshchoudhary1357@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Vansh-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -79,10 +83,12 @@
 ---
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vansh1023&no-frame=true&margin-w=15&margin-h-=15" />
-</p>
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -91,6 +97,14 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh1023&theme=tokyo-night" />
 </p>
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
