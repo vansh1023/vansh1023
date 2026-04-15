@@ -69,11 +69,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
+# 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh1023&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh1023&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.shion.dev/api?username=vansh1023&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br />
+  <img src="https://streak-stats.demolab.com/?user=vansh1023&theme=dark&hide_border=false" /><br />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vansh1023&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /><br />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vansh1023&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vansh1023&no-frame=true&margin-w=15&margin-h-=15" />
 </p>
 
 ---
