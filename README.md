@@ -20,10 +20,11 @@ Building scalable backend systems, distributed architectures, and AI-powered pro
 
 - 🎓 B.Tech CSE (2026) — MIET Meerut
 - 💻 Backend-focused Full Stack Developer
-- ☁️ Interested in Cloud Infrastructure, Distributed Systems & AI Engineering
+- ☁️ Experienced with AWS deployment workflows and cloud infrastructure fundamentals
 - 🚀 Building systems using Kubernetes, Redis, RabbitMQ, MongoDB and LLMs
-- ⚡ Strong focus on architecture, scalability, reliability and clean system design
-- 🎯 Goal: Build products that solve real-world problems at scale
+- 🤖 Exploring AI Agents, LangChain and modern GenAI applications
+- ⚡ Strong focus on scalability, reliability and system design
+- 🎯 Goal: To build impactful products and distributed systems at scale
 
 ---
 
@@ -31,17 +32,17 @@ Building scalable backend systems, distributed architectures, and AI-powered pro
 
 ### 🏗 AgentHive — AI-Powered Cloud IDE
 
-> A cloud-native development platform that provisions isolated Kubernetes-based sandboxes and enables AI-assisted software development directly from the browser.
+> A cloud-native development platform that provisions isolated Kubernetes-based development environments and enables AI-assisted software development directly from the browser.
 
 **Highlights**
 
 - Dynamic Kubernetes sandbox provisioning
-- LangGraph + LangChain AI Agent
-- Redis TTL based lifecycle management
-- RabbitMQ event-driven architecture
+- LangGraph + LangChain based AI Agent
+- Redis TTL-based sandbox lifecycle management
+- RabbitMQ event-driven communication
 - Dynamic reverse proxy routing
+- Browser-based terminal and file explorer
 - Live preview with Hot Module Reloading
-- Browser terminal & file explorer
 - Microservices architecture
 
 **Tech Stack**
@@ -50,14 +51,14 @@ Building scalable backend systems, distributed architectures, and AI-powered pro
 
 ---
 
-### 🎨 Imagify — AI SaaS Platform
+### 🎨 Imagify — AI Image Generation SaaS
 
 > AI-powered image generation platform with integrated payment workflows.
 
 **Highlights**
 
 - AI image generation workflows
-- Razorpay integration
+- Razorpay payment integration
 - Secure webhook verification
 - High-concurrency API handling
 - Production-ready backend architecture
@@ -68,16 +69,16 @@ Building scalable backend systems, distributed architectures, and AI-powered pro
 
 ---
 
-### 💬 SyncPoint — Real-Time Communication Platform
+### 💬 SyncPoint — Real-Time Chat Application
 
-> Real-time chat platform built using WebSockets and event-driven communication.
+> Real-time communication platform built using WebSockets.
 
 **Highlights**
 
 - Low-latency messaging
 - Token-based authentication
 - Real-time communication
-- Optimized MongoDB data access
+- Optimized MongoDB queries
 
 **Tech Stack**
 
@@ -87,16 +88,16 @@ Building scalable backend systems, distributed architectures, and AI-powered pro
 
 # ⚙️ Tech Stack
 
-## 💻 Languages
+## 🚀 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,cpp" />
+<img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
 
 ## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ## ⚙️ Backend
@@ -114,18 +115,24 @@ Building scalable backend systems, distributed architectures, and AI-powered pro
 ## ☁️ Cloud & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,rabbitmq" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
 </p>
 
-## 🛠️ Tools
+## 🔄 Messaging & Caching
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=redis,rabbitmq" />
+</p>
+
+## 🤖 AI & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 **Also Working With**
 
-`LangChain` • `LangGraph`
+`LangChain` • `LangGraph` • `LLM APIs`
 
 ---
 
