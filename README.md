@@ -139,15 +139,15 @@ Building scalable backend systems, distributed architectures, and AI-powered pro
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh1023&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshchoudharydev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh1023&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshchoudharydev&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh1023&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchoudharydev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -155,7 +155,7 @@ Building scalable backend systems, distributed architectures, and AI-powered pro
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh1023&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshchoudharydev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
